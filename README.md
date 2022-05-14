@@ -48,4 +48,8 @@ https://en.wikipedia.org/wiki/Khan_Academy
 https://cwe.mitre.org/data/definitions/121.html
 https://drop.com/buy/stack-overflow-the-key-macropad
 
+https://venturebeat.com/2021/06/23/stack-overflow-launches-sub-communities-for-developer-engagement-and-data/
+
+https://mathoverflow.net/ (Stack Exchange Network. Stack Exchange network consists of 180 Q&A communities including Stack Overflow, the largest, most trusted online community)
+
 
