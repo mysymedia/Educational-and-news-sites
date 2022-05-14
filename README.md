@@ -28,13 +28,17 @@ https://pubchem.ncbi.nlm.nih.gov/ (is good platform for finding chemical structu
 
 <a href="https://www.biologybrain.com"> Online biology notes</a>: (Biologybrain is educational site that publishes online biology notes for all the topics of life science).
 
-<a href="https://yytwins.com ">Dictionary</a>(is an online dictionary that gives information related to how to use any word in english sentence).
+
+<a href="https://www.dictionary.com/">English words</a> (It is the world's leading online source for English definitions, synonyms, word origins and etymologies, audio pronunciations). <a href="https://yytwins.com ">Dictionary</a>(is an online dictionary that gives information related to how to use any word in english sentence).
+
+<a href="https://dictionary.cambridge.org/">Word definitions</a>  (The most popular dictionary and thesaurus for learners of English. Meanings and definitions of words with pronunciations and translations)
 
 <a href="https://www.britannica.com/">Information site</a>: Well developed internet source that provide information related to all most all the topics.
 
 <a href="https://www.khanacademy.org/">link text</a>
 
 <a href="https://mindacy.com/">Questionary website</a> It is a online platform to discuss answers for different questions from all the subjects.
+<a href="https://stackoverflow.com/">Ask questions</a> A public platform building the definitive collection of coding questions & answers ... A community-based space to find and contribute answers to technical questions.
 
 https://en.wikipedia.org/wiki/Khan_Academy
 
