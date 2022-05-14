@@ -26,7 +26,7 @@ https://pubchem.ncbi.nlm.nih.gov/ (is good platform for finding chemical structu
 
 <a href=" https://www.omicsonline.org/scientific-journals.php">Omics Online</a>: The developing publication platform.
 
-<a href=" https://www.biologybrain.com">Online biology notes</a>(Biologybrain is educational site that publishes online biology notes for all the topics of life science).
+<a href=" https://www.biologybrain.com"> Online biology notes</a> (Biologybrain is educational site that publishes online biology notes for all the topics of life science).
 
 <a href=" https://yytwins.com ">Dictionary</a>(is an online dictionary that gives information related to how to use any word in english sentence).
 
