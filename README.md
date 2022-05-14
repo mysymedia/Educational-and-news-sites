@@ -39,8 +39,7 @@ https://www.theverge.com/2022/5/4/23035377/stack-overflow-drop-the-key-v2-copy-p
 
 <a href="https://www.khanacademy.org/">link text</a>
 
-<a href="https://mindacy.com/">Questionary website</a> It is a online platform to discuss answers for different questions from all the subjects.
-<a href="https://stackoverflow.com/">Ask questions</a> A public platform building the definitive collection of coding questions & answers ... A community-based space to find and contribute answers to technical questions.
+<a href="https://stackoverflow.com/">Ask questions</a> A public platform building the definitive collection of coding questions & answers ... A community-based space to find and contribute answers to technical questions.<a href="https://mindacy.com/">Questionary website</a> It is a online platform to discuss answers for different questions from all the subjects.
 
 https://en.wikipedia.org/wiki/Khan_Academy
 
