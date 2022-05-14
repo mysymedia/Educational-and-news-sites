@@ -28,6 +28,7 @@ https://pubchem.ncbi.nlm.nih.gov/ (is good platform for finding chemical structu
 
 <a href="https://www.biologybrain.com"> Online biology notes</a>: (Biologybrain is educational site that publishes online biology notes for all the topics of life science).
 
+<a href="http://mp.weixin.qq.com/s/J6Vz-WgyTgTpOPnKFu7GpA/">Find more</a> A public platform building the definitive collection of coding questions & answers ... A community-based space to find and contribute answers to technical questions.
 
 <a href="https://www.dictionary.com/">English words</a> (It is the world's leading online source for English definitions, synonyms, word origins and etymologies, audio pronunciations). <a href="https://yytwins.com ">Dictionary</a>(is an online dictionary that gives information related to how to use any word in english sentence).
 
