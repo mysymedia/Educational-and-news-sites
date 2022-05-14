@@ -27,6 +27,7 @@ https://pubchem.ncbi.nlm.nih.gov/ (is good platform for finding chemical structu
 <a href="https://www.omicsonline.org/scientific-journals.php">Omics Online</a>: The developing publication platform.
 
 <a href="https://www.biologybrain.com"> Online biology notes</a>: (Biologybrain is educational site that publishes online biology notes for all the topics of life science).
+https://www.theverge.com/2022/5/4/23035377/stack-overflow-drop-the-key-v2-copy-paste-keyboard
 
 <a href="http://mp.weixin.qq.com/s/J6Vz-WgyTgTpOPnKFu7GpA/">Find more</a> A public platform building the definitive collection of coding questions & answers ... A community-based space to find and contribute answers to technical questions.
 
@@ -45,6 +46,7 @@ https://en.wikipedia.org/wiki/Khan_Academy
 
 <a href="https://mysymedia.com/">English and telugu information site</a>: It provides general information of different topics.
 
-
+https://cwe.mitre.org/data/definitions/121.html
+https://drop.com/buy/stack-overflow-the-key-macropad
 
 
